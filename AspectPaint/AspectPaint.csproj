@@ -9,9 +9,6 @@
   </PropertyGroup>
 
 	<ItemGroup>
-		<Reference Include="PresentationCore">
-		  <HintPath>..\..\..\..\..\..\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\PresentationCore.dll</HintPath>
-		</Reference>
 		<Reference Include="System.Windows.Forms">
 		  <HintPath>..\..\..\..\..\..\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Windows.Forms.dll</HintPath>
 		</Reference>
